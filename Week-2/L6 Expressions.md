@@ -7,5 +7,6 @@ pixel.setRed(pixel.getRed() * 2);
 
 pixel.setRed(pixel.getRed() * 0.5);
 
+-----------------
 
 計算機業的偉大傳統不是從頭輸入代碼，而是複製代碼。//哈哈哈！
