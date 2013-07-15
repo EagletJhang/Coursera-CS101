@@ -13,7 +13,10 @@ pixel.setBlue(0);
 
 print(image);
 
+------------------
 
 Note: Javascript does not have this feature, I added it for CS101
+
+------------------
 
 Loop: powerful, but mechanical
