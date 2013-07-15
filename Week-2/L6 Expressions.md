@@ -1,8 +1,10 @@
 //e.g. double the red value (set/get pattern):
+
 pixel.setRed(pixel.getRed() * 2);
 
 
 //e.g. halve the red value:
+
 pixel.setRed(pixel.getRed() * 0.5);
 
 
