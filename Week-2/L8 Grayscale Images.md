@@ -1,2 +1,16 @@
-#Gray
-e.g. RGB values to make: dark gray, medium gray, light gray
+pixel.setGreen(pixel.getRed());
+
+pixel.setBlue(pixel.getRed());
+
+
+// Visual result: grayscale image, since red/blue/green are made equal for each pixel.
+
+----------------
+
+avg = (pixel.getRed() + pixel.getGreen() + pixel.getBlue())/3;
+
+pixel.setRed(avg);
+
+pixel.setGreen(avg);
+
+pixel.setBlue(avg);
