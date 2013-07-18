@@ -1,7 +1,7 @@
 pixel.setGreen(pixel.getRed());
 pixel.setBlue(pixel.getRed());
-// Visual result: grayscale image, since red/blue/green are made equal for each pixel.When red/green/blue values are equal .. shade of gray
-.. shade of gray
+// Visual result: grayscale image, since red/blue/green are made equal for each pixel.When red/green/blue values are equal 
+//shade of grayshade of gray
 
 
 
