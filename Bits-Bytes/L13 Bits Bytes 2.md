@@ -31,3 +31,7 @@ An ordinary computer in 2012 might have 4 GB or RAM
 A flash drive might hold 16 GB
 
 A hard drive might hold 750 GB
+
+--------------------------
+
+http://zh.wikipedia.org/wiki/Kibibyte
