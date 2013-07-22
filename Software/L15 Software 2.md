@@ -1,4 +1,5 @@
 Compiler translates the source code into a large number of machine code instructions
+
 ------------------
 
 Dynamic languages
