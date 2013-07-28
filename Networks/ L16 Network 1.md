@@ -9,6 +9,7 @@ Checksum - receiver can detect that the packet was received correctly
 - Sender waits for period of silence on the wire, sends packet 
 - Packet spreads out on wire, reaching all computers 
 - More "broadcast" than "send"
+
 ###Receive: 
 - All computers listen to the wire all the time 
 - Pick out packets addressed to them, ignore other packets
