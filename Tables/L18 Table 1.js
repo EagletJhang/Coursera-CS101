@@ -1,5 +1,4 @@
 table = new SimpleTable("baby-2010.csv");
-
 for (row: table) {
   print(row);
 }
