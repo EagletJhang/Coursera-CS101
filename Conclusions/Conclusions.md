@@ -1,5 +1,7 @@
 ###Algorithm
 Concrete series of steps to accomplish a computation
+
+
 ----------------
 
 ###Bug
